@@ -1,0 +1,23 @@
+header h1 { background-color: aqua;
+text-align: center;} 
+.family{ 
+text-align: center;
+font-size: 40px; }
+
+.live{ font-size: 40px;
+text-align: center;
+}
+.image{
+font-size: 80px;
+text-align: center;}
+.sharda{ text-align: center;
+    font-size: 80px;
+  }
+    .anshul { text-align: center;
+        font-size: 80px;
+        }
+        body{ background-image: url(photo/pexels-mudassir-ali-2680270.jpg);
+        margin: 20px;
+    padding: 30px;} 
+    h1{text-align: center;
+    font-size: 40px;}
